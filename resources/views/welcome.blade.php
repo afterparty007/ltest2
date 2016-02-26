@@ -38,7 +38,7 @@
     <body>
         <div class="container">
             <div class="content">
-                <div class="title">Laravel 2nd test</div>
+                <div class="title">Laravel 1st commit</div>
             </div>
         </div>
     </body>
